@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+html {
+  font-family: 'Roboto', 'sans-serif';
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 2.5em;
+}
+
+#quote-box {
+  margin: 10em;
+  padding: 10em;
+  background-color: #f6f6f6;
+  border-radius: 3%;
+}
+
+#text {
+  font-size: 2rem;
+  text-align: center;
+}
+
+#author {
+  font-size: 1.7rem;
+  text-align: end;
+}
+
+#tweet-quote {
+  text-decoration: none;
+  color: black;
+}
+
+#buttonsDiv {
+  display: flex;
+  justify-content: start;
+}
+
+#buttonsDiv button {
+  padding: 0.5em;
+  border-radius: 6%;
+  color: #f6f6f6;
+}
+
+#new-quote {
+  align-self: center;
+}
