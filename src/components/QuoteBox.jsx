@@ -33,7 +33,7 @@ class Quote extends React.Component {
     }  
 
     render(){
-      
+
     let quote = this.state.quote;
     let author = this.state.author;
     let backgroundColor = this.state.backgroundColor;

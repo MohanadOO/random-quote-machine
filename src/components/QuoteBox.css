@@ -1,33 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
-
 html {
   font-family: 'Roboto', 'sans-serif';
   font-size: 62.5%;
-  margin: 0;
-  padding: 0;
 }
 
-body {
+#root {
   display: flex;
   justify-content: center;
-  align-content: center;
-  margin: 2.5em;
+  align-items: center;
+  height: 100vh;
 }
 
 #quote-box {
-  margin: 10em;
   padding: 10em;
   background-color: #f6f6f6;
   border-radius: 3%;
 }
 
 #text {
-  font-size: 2rem;
+  font-size: 3.5rem;
   text-align: center;
 }
 
 #author {
-  font-size: 1.7rem;
+  font-size: 3.2rem;
   text-align: end;
 }
 
@@ -48,5 +43,5 @@ body {
 }
 
 #new-quote {
-  align-self: center;
+  align-self: flex-end;
 }
