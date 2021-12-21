@@ -2,9 +2,12 @@
 
 This is my Attempt to create a Random Quote Machine by using React.js
 
+You can check the project in this page [Here](https://random-quote-machine-cq2.pages.dev/).
+
 I had fun creating this Page and Check out my Other projects created with React.js as well 👇
 
 [Click Here](https://codepen.io/collection/aMewgw)
+
 
 ---
 
